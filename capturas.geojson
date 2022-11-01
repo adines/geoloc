@@ -1,0 +1,605 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 1,
+                "Trampa": "1A",
+                "Capturas": 556
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4694172,
+                    526412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 2,
+                "Trampa": "1B",
+                "Capturas": 403
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4694196,
+                    526465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 3,
+                "Trampa": "2A",
+                "Capturas": 943
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4699083,
+                    526558
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 4,
+                "Trampa": "2B",
+                "Capturas": 893
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4699153,
+                    526563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 5,
+                "Trampa": "3A",
+                "Capturas": 78
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4697594,
+                    521055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 6,
+                "Trampa": "3B",
+                "Capturas": 124
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4697580,
+                    521006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 7,
+                "Trampa": "4A",
+                "Capturas": 351
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4692657,
+                    522381
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 8,
+                "Trampa": "4B",
+                "Capturas": 532
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4692649,
+                    522438
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 9,
+                "Trampa": "5A",
+                "Capturas": 31
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4687914,
+                    519591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 10,
+                "Trampa": "5B",
+                "Capturas": 53
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4687962,
+                    519510
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 11,
+                "Trampa": "6A",
+                "Capturas": 81
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4691578,
+                    515444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 12,
+                "Trampa": "6B",
+                "Capturas": 159
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4691536,
+                    515454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 13,
+                "Trampa": "7A",
+                "Capturas": 73
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4697312,
+                    514086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 14,
+                "Trampa": "7B",
+                "Capturas": 145
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4697369,
+                    514052
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 15,
+                "Trampa": "8A",
+                "Capturas": 14
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4703137,
+                    506601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 16,
+                "Trampa": "8B",
+                "Capturas": 20
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4703132,
+                    506585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 17,
+                "Trampa": "9A",
+                "Capturas": 346
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4709475,
+                    507378
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 18,
+                "Trampa": "9B",
+                "Capturas": 299
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4709469,
+                    507433
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 19,
+                "Trampa": "10A",
+                "Capturas": 182
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4711187,
+                    504189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 20,
+                "Trampa": "10B",
+                "Capturas": 92
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4711204,
+                    504184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 21,
+                "Trampa": "11A",
+                "Capturas": 3
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4716958,
+                    502302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 22,
+                "Trampa": "11B",
+                "Capturas": 11
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4716956,
+                    502352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 23,
+                "Trampa": "12A",
+                "Capturas": 30
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4712296,
+                    496999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 24,
+                "Trampa": "12B",
+                "Capturas": 11
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4712257,
+                    496980
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 25,
+                "Trampa": "13A",
+                "Capturas": 24
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4708649,
+                    500998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 26,
+                "Trampa": "13B",
+                "Capturas": 35
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4708794,
+                    501122
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 27,
+                "Trampa": "14A",
+                "Capturas": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4712218,
+                    511652
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 28,
+                "Trampa": "14B",
+                "Capturas": 11
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4712220,
+                    511652
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 29,
+                "Trampa": "15A",
+                "Capturas": 34
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4710608,
+                    516267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 30,
+                "Trampa": "15B",
+                "Capturas": 60
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4710616,
+                    516205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 31,
+                "Trampa": "16A",
+                "Capturas": 85
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4714694,
+                    520040
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 32,
+                "Trampa": "16B",
+                "Capturas": 56
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4714806,
+                    519994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 33,
+                "Trampa": "17A",
+                "Capturas": 16
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4713056,
+                    524441
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 34,
+                "Trampa": "17B",
+                "Capturas": 42
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4713100,
+                    524384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 35,
+                "Trampa": "18A",
+                "Capturas": 77
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4705027,
+                    516259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 36,
+                "Trampa": "18B",
+                "Capturas": 407
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4705071,
+                    516296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 37,
+                "Trampa": "19A",
+                "Capturas": 236
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4704671,
+                    521346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 38,
+                "Trampa": "19B",
+                "Capturas": 253
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4704745,
+                    521343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 39,
+                "Trampa": "20A",
+                "Capturas": 438
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4703464,
+                    527727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Id": 40,
+                "Trampa": "20B",
+                "Capturas": 250
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4703499,
+                    527646
+                ]
+            }
+        }
+    ]
+}
